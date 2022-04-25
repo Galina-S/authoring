@@ -1,10 +1,10 @@
 # Github Flavoured Markdown
 
-    - [X] External Link [Link to Github Documentation](https://help.github.com/en)
-    - [X] Internal Link [Link to the images folder](/images/)
-    - [X] Images [Pinguin](/images/logo.png)
-    - [X] Emojis
-    - [X] Tables
+- [X] External Link [Link to Github Documentation](https://help.github.com/en)
+- [X] Internal Link [Link to the images folder](/images/)
+- [X] Images [Pinguin](/images/logo.png)
+- [X] Emojis
+- [X] Tables
 
 [Checkboxes](#checkboxes)
 
@@ -24,7 +24,7 @@
 ## Table with two headings 
 
 | Name           | Class |
-| ---     | ---      | 
+| ---            | ---   | 
 | Helene Fischer | 1A    |
 | Max Mustermann | 2B    | 
 
