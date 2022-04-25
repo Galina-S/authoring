@@ -1,10 +1,10 @@
 # Github Flavoured Markdown
 
-- [X] External Link [Link to Github Documentation](https://help.github.com/en)
-- [X] Internal Link [Link to the images folder](/images/)
-- [X] Images [Pinguin](/images/logo.png)
-- [X] Emojis
-- [X] Tables
+- [X] [Link to Github Documentation](https://help.github.com/en)
+- [X] [Link to the images folder](/images/)
+- [X] [Pinguin](#Images)
+- [X] [Emojis](#Emojis) 
+- [X] [Tables](#Table)
 
 [Checkboxes](#checkboxes)
 
@@ -21,7 +21,7 @@
 
 :smile:
 
-## Table with two headings 
+## Table 
 
 | Name           | Class |
 | ---            | ---   | 
