@@ -16,7 +16,7 @@ You can find Github documentation hier [Link to Github Documentation](https://he
 - [Link to the images folder](/images/)
 
 ## Images
-![Pinguin](/images/logo.png)
+
 ![Pinguin2](https://www.planet-wissen.de/natur/voegel/pinguine/intropinguinfederkleidgjpg100~_v-gseapremiumxl.jpg)
 
 ## Emojis
