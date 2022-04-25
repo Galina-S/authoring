@@ -15,7 +15,7 @@
 
 :bowtie:
 :smile:
-:laughung:
+:laughing:
 
 | Vorname | Nachname | Geburtstag | Geburtsort | Telefonnummer |
 | ---     | ---      | ---        | ---        | ---           |

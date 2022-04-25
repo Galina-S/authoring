@@ -1,27 +1,30 @@
-# Github Flavoured Markdown
+ # Github Flavoured Markdown
+ 
+ ## Checkboxes
 
-- [X] [Link to Github Documentation](https://help.github.com/en)
-- [X] [Link to the images folder](/images/)
-- [X] [Pinguin](#Images)
-- [X] [Emojis](#Emojis) 
-- [X] [Tables](#Table)
+- [X] [External Links](#external-link)
+- [ ] [Internal Links](#internal-link)
+- [X] [Images](#images)
+- [X] [Emojis](#emojis) 
+- [X] [Tables](#tables)
 
-[Checkboxes](#checkboxes)
 
 ## External Link
-- [Link to Github Documentation](https://help.github.com/en)
+You can find Github documentation hier [Link to Github Documentation](https://help.github.com/en)
 
 ## Internal Link
 - [Link to the images folder](/images/)
 
 ## Images
 ![Pinguin](/images/logo.png)
+![Pinguin2](https://www.planet-wissen.de/natur/voegel/pinguine/intropinguinfederkleidgjpg100~_v-gseapremiumxl.jpg)
 
 ## Emojis
-
 :smile:
+:rose:
+:laughing:
 
-## Table 
+## Tables 
 
 | Name           | Class |
 | ---            | ---   | 
